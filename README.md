@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Requires Node 18+. Opens at `http://localhost:5173`.
+Requires Node 22+. Opens at `http://localhost:5173`.
 
 ---
 
