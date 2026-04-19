@@ -1,8 +1,8 @@
-# QRPower
+# QRGen
 
 A free, no-frills QR code generator that runs entirely in your browser. No account, no watermark, no limits.
 
-Live: [mardif.github.io/QRPower](https://mardif.github.io/QRPower/)
+Live: [mardif.github.io/QRGen](https://mardif.github.io/QRGen/)
 
 ---
 
