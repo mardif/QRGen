@@ -587,6 +587,14 @@ export default function App() {
           </button>
         </div>
       </div>
+
+      <footer className="app-footer">
+        <span>Mariano Di Felice</span>
+        <span className="footer-sep">·</span>
+        <a href="mailto:mariano.difelice@gmail.com">mariano.difelice@gmail.com</a>
+        <span className="footer-sep">·</span>
+        <a href="https://linkedin.com/in/mariano-di-felice" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      </footer>
     </div>
   );
 }
